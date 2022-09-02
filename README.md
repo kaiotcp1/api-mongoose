@@ -1,1 +1,1 @@
-﻿# Estudos sobre ORM -> mongoose
+﻿# Estudos sobre ODM -> mongoose
